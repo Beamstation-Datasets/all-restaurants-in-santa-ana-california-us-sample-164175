@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Santa Ana, California with a population of over 310k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Santa Ana, California, US",
+  "export_job_id": "addec07e-d1e2-4d95-af95-be145419055f",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 164175,
+  "location_name": "Santa Ana",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-santa-ana-california-us-sample-164175",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/164175/beamstation_164175_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 3.9,
+  "sample_records": 25,
+  "sample_sha256": "a434b529328bbfa64ab7e22e3a4206307deaa1768907b56e25ee363d80c8df14",
+  "sample_size_bytes": 112365,
+  "total_records": 641,
+  "updated_at": "2026-03-31T15:45:22.855500+00:00"
+}
