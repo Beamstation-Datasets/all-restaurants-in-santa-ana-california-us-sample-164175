@@ -9,9 +9,9 @@
 | Dataset ID | `164175` |
 | Location | Santa Ana |
 | Category | Restaurants |
-| Full dataset size | 746 records |
-| Free sample size | 74 records (9.92%) |
-| Last export | 2026-04-14T16:31:45.380175+00:00 |
+| Full dataset size | 747 records |
+| Free sample size | 74 records (9.91%) |
+| Last export | 2026-04-21T18:00:42.870421+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-santa-ana-california-us-sample-164175/releases/download/sample-latest/beamstation_164175_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
