@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a9ceef5c-ea2c-4d5b-af6b-e5d7fe588b79",
+  "export_job_id": "106cb922-5910-487c-b815-7a365676a38b",
   "id_short": 164175,
-  "published_at": "2026-04-21T19:06:48Z",
+  "published_at": "2026-04-29T07:03:28Z",
   "repo_name": "all-restaurants-in-santa-ana-california-us-sample-164175",
   "sample_asset_name": "beamstation_164175_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/164175/beamstation_164175_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 74,
-  "sample_sha256": "e8481e0802f1518bf966aa1787238aec41a6d86076ccfc5b840a0e23ac10bcac",
-  "sample_size_bytes": 248865,
-  "total_records": 747
+  "sample_records": 77,
+  "sample_sha256": "a2d0cbd9527a73d1319ab049d24e7620fc0522243b3858639aa6c70026288968",
+  "sample_size_bytes": 249756,
+  "total_records": 778
 }
