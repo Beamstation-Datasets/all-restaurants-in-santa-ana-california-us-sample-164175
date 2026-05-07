@@ -1,6 +1,6 @@
 # All Restaurants in Santa Ana, California, US
 
-> Free BeamStation sample export with 77 rows and masked direct-contact fields.
+> Free BeamStation sample export with 85 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `164175` |
 | Location | Santa Ana |
 | Category | Restaurants |
-| Full dataset size | 778 records |
-| Free sample size | 77 records (9.9%) |
-| Last export | 2026-04-28T19:14:56.805911+00:00 |
+| Full dataset size | 853 records |
+| Free sample size | 85 records (9.96%) |
+| Last export | 2026-05-07T06:28:50.900455+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-santa-ana-california-us-sample-164175/releases/download/sample-latest/beamstation_164175_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
